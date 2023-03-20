@@ -4,13 +4,13 @@
       "clearColor": "0x00000000",
       "useImageWorker": true
     },
-    "debug": true
+    "debug": false
   },
   "platformSettings": {
     "path": "./static",
-    "log": true,
-    "showVersion": true,
-    "inspector": true,
-    "showFps": true
+    "log": false,
+    "showVersion": false,
+    "inspector": false,
+    "showFps": false
   }
 }
